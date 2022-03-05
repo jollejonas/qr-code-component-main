@@ -1,0 +1,10 @@
+.body{
+    background-color: hsl(220, 15%, 55%);
+}
+
+.main{
+    width: 375px;
+    left: auto;
+    right: auto;
+    background-color: hsl(0, 0%, 100%);
+}
