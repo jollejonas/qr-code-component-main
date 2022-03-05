@@ -6,10 +6,10 @@ body{
 
 main{
     position: absolute;
-    width: 275px;
+    width: 280px;
     top: 50%;
     left: 50%;
-    margin: -218px 0 0 -137px;
+    margin: -218px 0 0 -140px;
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
@@ -23,8 +23,6 @@ main img{
     border-radius: 10px;
 }
 
-#text{
-}
 main h1{
     font-size: 20px;
     font-weight: 700;
